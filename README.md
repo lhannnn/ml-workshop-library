@@ -1,4 +1,4 @@
-# ML Workshop Library
+# ML Workshop Proposals
 
 | 会议 | 年份 | 目录 | 已保存 PDF |
 | --- | --- | ---: | ---: |
