@@ -1,6 +1,6 @@
 {
   "snapshot_date": "2026-10-19",
-  "count": 43,
+  "count": 48,
   "proposals": [
     {
       "conference": "ICLR",
@@ -583,6 +583,40 @@
       "sha256": "e823e5b22fadedeb459b4259b64641a261459e57c77413d18c1ac225d5fac5fc"
     },
     {
+      "source_pdf_url": "https://raw.githubusercontent.com/sim2science/sim2science.github.io/6dfd8c7fb272174d1f200761fcebed9fa1a85216/ICML_Workshop_Proposal_Simulator_Discrepancy.pdf",
+      "forum_url": "https://github.com/sim2science/sim2science.github.io/blob/6dfd8c7fb272174d1f200761fcebed9fa1a85216/ICML_Workshop_Proposal_Simulator_Discrepancy.pdf",
+      "source_blob_sha": "a18e6050344a99b33769f6bcc7e53fef341c59b3",
+      "source_commit": "6dfd8c7fb272174d1f200761fcebed9fa1a85216",
+      "conference": "ICML",
+      "year": 2026,
+      "title": "Sim2Science: ML with Imperfect Scientific Models",
+      "catalog_title": null,
+      "path": "proposals/ICML/2026/Sim2Science.pdf",
+      "source_type": "organizer_github_history",
+      "downloaded_on": "2026-10-20",
+      "acceptance_status": "unverified",
+      "pages": 10,
+      "bytes": 144932,
+      "sha256": "b04fc12bd606ee3dc99c6f095b963367ad17e9627472afe557eedd119524648d"
+    },
+    {
+      "source_pdf_url": "https://raw.githubusercontent.com/aintheself/aintheself.github.io/3aa9ca1f8f3aada4797994101d9a6cbc221ce46b/assets/ai-and-self-proposal.pdf",
+      "forum_url": "https://github.com/aintheself/aintheself.github.io/blob/3aa9ca1f8f3aada4797994101d9a6cbc221ce46b/assets/ai-and-self-proposal.pdf",
+      "source_blob_sha": "58995759fcdfd2735ecb0f68a1e56b5e6b1245e7",
+      "source_commit": "3aa9ca1f8f3aada4797994101d9a6cbc221ce46b",
+      "conference": "NeurIPS",
+      "year": 2026,
+      "title": "AI and the Self: Human Identity, Authenticity, and Agency in the Age of AI",
+      "catalog_title": "AI and the Self: Human Identity, Authenticity, and Agency in the Age of AI",
+      "path": "proposals/NeurIPS/2026/AI_and_the_Self.pdf",
+      "source_type": "organizer_github_history",
+      "downloaded_on": "2026-10-20",
+      "acceptance_status": "accepted",
+      "pages": 6,
+      "bytes": 62917,
+      "sha256": "583150763911f80857000d27bcb7a5ed2b0cddd8380bd84587b759c0d16b5eea"
+    },
+    {
       "conference": "NeurIPS",
       "year": 2026,
       "title": "AIDaR: AI Data Readiness for Scientific AI",
@@ -599,6 +633,23 @@
       "sha256": "a9f89f4c68a601e2ae3f7f1d1c86a09ee214ae81d5018dae53cb52564ac0e450"
     },
     {
+      "source_pdf_url": "https://raw.githubusercontent.com/iab-agents/iab-agents.github.io/f2a62c79397ea9d170aa40e94857185ade58fbc3/NeurIPS_2026_Workshop_Proposal.pdf",
+      "forum_url": "https://github.com/iab-agents/iab-agents.github.io/blob/f2a62c79397ea9d170aa40e94857185ade58fbc3/NeurIPS_2026_Workshop_Proposal.pdf",
+      "source_blob_sha": "3cce160e2ae4b0bfe5c90b9b4cb7a087a2a8bdc6",
+      "source_commit": "f2a62c79397ea9d170aa40e94857185ade58fbc3",
+      "conference": "NeurIPS",
+      "year": 2026,
+      "title": "Interpreting Agent Behavior (IAB): Human-Centered Interpretation for Understanding Agents, Humans, and Interaction",
+      "catalog_title": "Interpreting Agent Behavior (IAB): The First Workshop on Human-Centered Interpretation for Understanding Agents, Humans, and Interaction",
+      "path": "proposals/NeurIPS/2026/Interpreting_Agent_Behavior.pdf",
+      "source_type": "organizer_github_history",
+      "downloaded_on": "2026-10-20",
+      "acceptance_status": "accepted",
+      "pages": 8,
+      "bytes": 181755,
+      "sha256": "c67da3752b9151fa0e35b41ee9734b49101da529b108a677bbab524f7cfab1d6"
+    },
+    {
       "conference": "NeurIPS",
       "year": 2026,
       "title": "Real-Time Conversational Agents: Toward Natural Multimodal Interaction",
@@ -612,6 +663,41 @@
       "pages": 6,
       "bytes": 179804,
       "sha256": "b2af37557653828a8a739e5bca664cf94fded890737cb11ab9a16dd6b63da176"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2026,
+      "title": "UniMAS: A Unified View of Multi-Agent Systems for Embodied AI",
+      "catalog_title": null,
+      "path": "proposals/NeurIPS/2026/UniMAS.pdf",
+      "source_type": "organizer_github",
+      "source_pdf_url": "https://raw.githubusercontent.com/unimas-workshop/unimas-workshop.github.io/576da03a66021f10f717d55d2cdc927289bf124b/proposal.pdf",
+      "forum_url": "https://github.com/unimas-workshop/unimas-workshop.github.io/blob/576da03a66021f10f717d55d2cdc927289bf124b/proposal.pdf",
+      "source_blob_sha": "5a52ded42ae8bff8c84795ff19e1d094ad7292e0",
+      "source_commit": "576da03a66021f10f717d55d2cdc927289bf124b",
+      "downloaded_on": "2026-10-20",
+      "acceptance_status": "unverified",
+      "display_note": "UniMAS：正文日程和官网为 2026，PDF 页脚标为 2025。",
+      "pages": 7,
+      "bytes": 144072,
+      "sha256": "0a043fd24b988a798e9524ffc470fffcd0b05dfa93b5e6061e80ec3ce8d53591"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2026,
+      "title": "Workshop on the Science of Training: Emergence, Prediction, and Steering (STEPS)",
+      "catalog_title": null,
+      "path": "proposals/NeurIPS/2026/STEPS.pdf",
+      "source_type": "organizer_github_history",
+      "source_pdf_url": "https://raw.githubusercontent.com/science-of-unfinished-models/science-of-unfinished-models.github.io/f04228d19bb9110a6c2e0e0a6928ab82bb038809/assets/proposal.pdf",
+      "forum_url": "https://github.com/science-of-unfinished-models/science-of-unfinished-models.github.io/blob/f04228d19bb9110a6c2e0e0a6928ab82bb038809/assets/proposal.pdf",
+      "source_blob_sha": "2986152b89b2718c7b7d92233443fdc5186e9cd9",
+      "source_commit": "f04228d19bb9110a6c2e0e0a6928ab82bb038809",
+      "downloaded_on": "2026-10-20",
+      "acceptance_status": "unverified",
+      "pages": 7,
+      "bytes": 129870,
+      "sha256": "c5d6e62613d4450b1f498b393af07c7fd1fd6467650737cc0376082f7e79961a"
     }
   ],
   "updated_on": "2026-10-20"

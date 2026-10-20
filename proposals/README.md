@@ -1,6 +1,6 @@
 # 提案 PDF
 
-[返回](../README.md) · 43 份 PDF
+[返回](../README.md) · 48 份 PDF
 
 | 会议 | Workshop | PDF | 来源 |
 | --- | --- | --- | --- |
@@ -45,5 +45,14 @@
 | ICLR 2025 | World Models: Understanding, Modelling and Scaling | [PDF](../proposals/ICLR/2025/World_Models.pdf) | [来源](https://openreview.net/forum?id=5uXDDU0dOh) |
 | ICLR 2025 | XAI4Science: From Understanding Model Behavior to Discovering New Scientific Knowledge | [PDF](../proposals/ICLR/2025/XAI4Science.pdf) | [来源](https://openreview.net/forum?id=PwoXoEM6e3) |
 | ICML 2025 | The 2nd Workshop on Reliable and Responsible Foundation Models | [PDF](../proposals/ICML/2025/Reliable_and_Responsible_Foundation_Models.pdf) | [来源](https://github.com/r2-fm/r2-fm.github.io/blob/main/Reliable_FM_Workshop_ICML_2025.pdf) |
+| ICML 2026 | Sim2Science: ML with Imperfect Scientific Models † | [PDF](../proposals/ICML/2026/Sim2Science.pdf) | [来源](https://github.com/sim2science/sim2science.github.io/blob/6dfd8c7fb272174d1f200761fcebed9fa1a85216/ICML_Workshop_Proposal_Simulator_Discrepancy.pdf) |
+| NeurIPS 2026 | AI and the Self: Human Identity, Authenticity, and Agency in the Age of AI | [PDF](../proposals/NeurIPS/2026/AI_and_the_Self.pdf) | [来源](https://github.com/aintheself/aintheself.github.io/blob/3aa9ca1f8f3aada4797994101d9a6cbc221ce46b/assets/ai-and-self-proposal.pdf) |
 | NeurIPS 2026 | AIDaR: AI Data Readiness for Scientific AI | [PDF](../proposals/NeurIPS/2026/AIDaR.pdf) | [来源](https://github.com/kennyworkman/aidar-neurips-2026/blob/ed9289c5e1e1b72ec79e332a6a5241465b1ed06f/proposal/main.pdf) |
+| NeurIPS 2026 | Interpreting Agent Behavior (IAB): Human-Centered Interpretation for Understanding Agents, Humans, and Interaction | [PDF](../proposals/NeurIPS/2026/Interpreting_Agent_Behavior.pdf) | [来源](https://github.com/iab-agents/iab-agents.github.io/blob/f2a62c79397ea9d170aa40e94857185ade58fbc3/NeurIPS_2026_Workshop_Proposal.pdf) |
 | NeurIPS 2026 | Real-Time Conversational Agents: Toward Natural Multimodal Interaction | [PDF](../proposals/NeurIPS/2026/Real_Time_Conversational_Agents.pdf) | [来源](https://github.com/rtcaneurips26/rtcaneurips26.github.io/blob/main/assets/proposal.pdf) |
+| NeurIPS 2026 | UniMAS: A Unified View of Multi-Agent Systems for Embodied AI † | [PDF](../proposals/NeurIPS/2026/UniMAS.pdf) | [来源](https://github.com/unimas-workshop/unimas-workshop.github.io/blob/576da03a66021f10f717d55d2cdc927289bf124b/proposal.pdf) |
+| NeurIPS 2026 | Workshop on the Science of Training: Emergence, Prediction, and Steering (STEPS) † | [PDF](../proposals/NeurIPS/2026/STEPS.pdf) | [来源](https://github.com/science-of-unfinished-models/science-of-unfinished-models.github.io/blob/f04228d19bb9110a6c2e0e0a6928ab82bb038809/assets/proposal.pdf) |
+
+† 接收状态未核实。
+
+UniMAS：正文日程和官网为 2026，PDF 页脚标为 2025。

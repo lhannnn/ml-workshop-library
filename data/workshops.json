@@ -3435,9 +3435,9 @@
       "source_list_url": "https://blog.neurips.cc/2026/08/10/announcing-the-neurips-2026-workshops/",
       "summary_zh": "AI互动如何影响人的自我、依赖、身份、记忆与自主性。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/NeurIPS/2026/AI_and_the_Self.pdf",
+      "proposal_forum_url": "https://github.com/aintheself/aintheself.github.io/blob/3aa9ca1f8f3aada4797994101d9a6cbc221ce46b/assets/ai-and-self-proposal.pdf",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "NeurIPS",
@@ -4035,9 +4035,9 @@
       "source_list_url": "https://blog.neurips.cc/2026/08/10/announcing-the-neurips-2026-workshops/",
       "summary_zh": "以人为中心解释代理运行轨迹、人类回应和交互，支持调试、监督和超越成功率的评测。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/NeurIPS/2026/Interpreting_Agent_Behavior.pdf",
+      "proposal_forum_url": "https://github.com/iab-agents/iab-agents.github.io/blob/f2a62c79397ea9d170aa40e94857185ade58fbc3/NeurIPS_2026_Workshop_Proposal.pdf",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "NeurIPS",
