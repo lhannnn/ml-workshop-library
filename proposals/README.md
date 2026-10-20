@@ -1,6 +1,6 @@
 # 提案 PDF
 
-[返回](../README.md) · 40 份文件，按下载时版本保存。
+[返回](../README.md) · 43 份文件，按下载时版本保存。
 
 | 会议 | Workshop | PDF | 来源 |
 | --- | --- | --- | --- |
@@ -44,3 +44,6 @@
 | ICLR 2025 | Workshop on Spurious Correlation and Shortcut Learning: Foundations and Solutions | [PDF](../proposals/ICLR/2025/Spurious_Correlation_and_Shortcut_Learning.pdf) | [来源](https://openreview.net/forum?id=B5MlqxJutJ) |
 | ICLR 2025 | World Models: Understanding, Modelling and Scaling | [PDF](../proposals/ICLR/2025/World_Models.pdf) | [来源](https://openreview.net/forum?id=5uXDDU0dOh) |
 | ICLR 2025 | XAI4Science: From Understanding Model Behavior to Discovering New Scientific Knowledge | [PDF](../proposals/ICLR/2025/XAI4Science.pdf) | [来源](https://openreview.net/forum?id=PwoXoEM6e3) |
+| ICML 2025 | The 2nd Workshop on Reliable and Responsible Foundation Models | [PDF](../proposals/ICML/2025/Reliable_and_Responsible_Foundation_Models.pdf) | [来源](https://github.com/r2-fm/r2-fm.github.io/blob/main/Reliable_FM_Workshop_ICML_2025.pdf) |
+| NeurIPS 2026 | AIDaR: AI Data Readiness for Scientific AI | [PDF](../proposals/NeurIPS/2026/AIDaR.pdf) | [来源](https://github.com/kennyworkman/aidar-neurips-2026/blob/ed9289c5e1e1b72ec79e332a6a5241465b1ed06f/proposal/main.pdf) |
+| NeurIPS 2026 | Real-Time Conversational Agents: Toward Natural Multimodal Interaction | [PDF](../proposals/NeurIPS/2026/Real_Time_Conversational_Agents.pdf) | [来源](https://github.com/rtcaneurips26/rtcaneurips26.github.io/blob/main/assets/proposal.pdf) |

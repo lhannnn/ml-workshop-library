@@ -1,6 +1,6 @@
 {
   "snapshot_date": "2026-10-19",
-  "count": 40,
+  "count": 43,
   "proposals": [
     {
       "conference": "ICLR",
@@ -566,6 +566,52 @@
       "pages": 6,
       "bytes": 356026,
       "sha256": "e29e5606d7994e09f91232c2ee4053885170ec90ff65607c85fac650c899953e"
+    },
+    {
+      "conference": "ICML",
+      "year": 2025,
+      "title": "The 2nd Workshop on Reliable and Responsible Foundation Models",
+      "catalog_title": "The 2nd Workshop on Reliable and Responsible Foundation Models",
+      "forum_url": "https://github.com/r2-fm/r2-fm.github.io/blob/main/Reliable_FM_Workshop_ICML_2025.pdf",
+      "source_pdf_url": "https://raw.githubusercontent.com/r2-fm/r2-fm.github.io/main/Reliable_FM_Workshop_ICML_2025.pdf",
+      "source_type": "organizer_github",
+      "source_blob_sha": "afeaf9b7c43904a414ae7680274cc594c5f75809",
+      "downloaded_on": "2026-10-20",
+      "path": "proposals/ICML/2025/Reliable_and_Responsible_Foundation_Models.pdf",
+      "pages": 6,
+      "bytes": 105736,
+      "sha256": "e823e5b22fadedeb459b4259b64641a261459e57c77413d18c1ac225d5fac5fc"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2026,
+      "title": "AIDaR: AI Data Readiness for Scientific AI",
+      "catalog_title": "AIDaR: AI Data Readiness for Scientific Discovery",
+      "forum_url": "https://github.com/kennyworkman/aidar-neurips-2026/blob/ed9289c5e1e1b72ec79e332a6a5241465b1ed06f/proposal/main.pdf",
+      "source_pdf_url": "https://raw.githubusercontent.com/kennyworkman/aidar-neurips-2026/ed9289c5e1e1b72ec79e332a6a5241465b1ed06f/proposal/main.pdf",
+      "source_type": "organizer_github",
+      "source_commit": "ed9289c5e1e1b72ec79e332a6a5241465b1ed06f",
+      "source_blob_sha": "8b7ffdcedb1999af6a44d3f4e7a1bb45b8e63c73",
+      "downloaded_on": "2026-10-20",
+      "path": "proposals/NeurIPS/2026/AIDaR.pdf",
+      "pages": 7,
+      "bytes": 131952,
+      "sha256": "a9f89f4c68a601e2ae3f7f1d1c86a09ee214ae81d5018dae53cb52564ac0e450"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2026,
+      "title": "Real-Time Conversational Agents: Toward Natural Multimodal Interaction",
+      "catalog_title": "Real-Time Conversational Agents: Toward Natural Multimodal Interaction",
+      "forum_url": "https://github.com/rtcaneurips26/rtcaneurips26.github.io/blob/main/assets/proposal.pdf",
+      "source_pdf_url": "https://raw.githubusercontent.com/rtcaneurips26/rtcaneurips26.github.io/main/assets/proposal.pdf",
+      "source_type": "organizer_github",
+      "source_blob_sha": "774d101689e6e204346f9140ecc6841fdf0e431e",
+      "downloaded_on": "2026-10-20",
+      "path": "proposals/NeurIPS/2026/Real_Time_Conversational_Agents.pdf",
+      "pages": 6,
+      "bytes": 179804,
+      "sha256": "b2af37557653828a8a739e5bca664cf94fded890737cb11ab9a16dd6b63da176"
     }
   ],
   "updated_on": "2026-10-20"
