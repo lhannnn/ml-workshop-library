@@ -4,7 +4,7 @@ ICLR、ICML、NeurIPS workshop 目录与原始提案 PDF。
 
 | 会议 | 年份 | 目录 | 已保存 PDF |
 | --- | --- | ---: | ---: |
-| ICLR | 2025 | [40](catalog/ICLR/2025.md) | 7 |
+| ICLR | 2025 | [40](catalog/ICLR/2025.md) | 40 |
 | ICLR | 2026 | [40](catalog/ICLR/2026.md) | 0 |
 | ICML | 2025 | [33](catalog/ICML/2025.md) | 0 |
 | ICML | 2026 | [44](catalog/ICML/2026.md) | 0 |

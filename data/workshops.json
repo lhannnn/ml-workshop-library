@@ -15,9 +15,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "基础模型数据收集、筛选、归因、合成、版权及多模态挑战。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Data_Problems_for_Foundation_Models.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=sa3U5kjB3V",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -30,9 +30,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "遥感多模态时空数据的表示、适应、融合及应用。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Remote_Sensing.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=DCAZxlz3x7",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -45,9 +45,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "提高机器人感知、学习、决策和数据收集以实现广泛物理能力。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Robot_Learning.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=9JXx14CbMj",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -60,9 +60,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "金融生成式AI、多智能体、预测、欺诈检测和风险管理。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Financial_AI.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=aoD1sie2OW",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -75,9 +75,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "AI支持DNA和RNA结构、序列及生物应用。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/AI4NA.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=6iGHOa972f",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -90,9 +90,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "材料基础模型、多模态表示、数据共享及设计。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/AI4MAT.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=DV0ar1j6Zw",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -120,9 +120,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "生成模型理论、稳定训练、扩展及现实可靠性。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Deep_Generative_Models.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=pT5QE7IsvS",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -135,9 +135,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "连接采样与学习型推断，涵盖科学应用和不确定性估计。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Frontiers_in_Probabilistic_Inference.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=EJ1GFMyx3l",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -150,9 +150,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "利用生成模型进行机器人表示、策略学习、数据合成与迁移。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Generative_Models_for_Robot_Learning.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=bYCIdcBpEm",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -165,9 +165,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "真实部署中的深度学习失败、负结果和跨领域共同失效模式。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/ICBINB.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=HDGSNz80yb",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -180,9 +180,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "人类与AI共同适应，动态价值、交互学习、监督及多目标评估。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Bidirectional_Human_AI_Alignment.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=HcTiacDN8N",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -195,9 +195,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "生成媒体水印、真实性、安全、评价及治理。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/GenAI_Watermarking.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=euhFSyW2CA",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -210,9 +210,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "研究人类与AI长期相互适应、反馈循环及社会影响。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Human_AI_Coevolution.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=0K45ILUlYM",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -225,9 +225,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "气候减缓和适应中的数据中心机器学习。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Climate_Change_Machine_Learning.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=xVA6REQFGA",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -240,9 +240,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "整合生成模型与实验生物平台，改善分子设计的现实效用。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Biomolecular_Design.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=NIk7CNB6gZ",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -255,9 +255,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "生物基础模型的表征、下游泛化和评估标准。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/LMRL.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=6RNfPPoc7E",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -270,9 +270,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "机器学习支持疾病机制、靶点识别与新疗法。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/MLGenX.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=nGRwZgS79z",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -285,9 +285,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "用机器学习近似复杂物理系统并跨越尺度。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Machine_Learning_Multiscale_Processes.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=uAtjhZW1QV",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -300,9 +300,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "独立模块、模型组合、协作开发和去中心化训练。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Modular_Collaborative_Decentralized_Learning.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=QdETnsJ77V",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -315,9 +315,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "把神经网络权重作为数据模态进行建模和分析。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Neural_Network_Weights.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=Bz6wEdobY7",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -330,9 +330,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "跨学科讨论联想记忆的研究进展和方向。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Associative_Memories.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=MoS7YBzlIQ",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -345,9 +345,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "开放基础模型、数据、训练透明度和可复现实验。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Open_Science_for_Foundation_Models.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=MQc4ICdob3",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -360,9 +360,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "基础模型不确定性、幻觉、沟通、风险决策及评估。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Uncertainty_and_Hallucination.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=yog1djOEOW",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -375,9 +375,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "高效适应、微调、RAG上下文、MoE路由及推理优化。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/SCOPE.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=GslmitET4M",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -390,9 +390,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "比较和对齐人工与生物智能的内部表示。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Representational_Alignment.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=zvO3rgxc4g",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -420,9 +420,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "真实部署中的适应、推理规划、可靠性、责任与系统限制。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Foundation_Models_in_the_Wild.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=FXV5nMYSxq",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -435,9 +435,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "编程智能体、代码后训练、开发者交互、负责任AI及新任务评估。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Deep_Learning_for_Code.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=dlTmir8oYC",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -450,9 +450,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "数据实践、存储库、伦理、弃用流程与整体模型评价。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Data_Practices_and_Repositories.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=sAJtAchgTN",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -495,9 +495,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "讨论合成数据能否解决数据获取、隐私、公平和训练瓶颈。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Synthetic_Data.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=0nw5rjqxw2",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -510,9 +510,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "面向儿童医疗、心理和教育的AI设计及风险。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/AI_for_Children.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=IFnUxdmf7w",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -555,9 +555,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "稀疏训练、MoE、量化、硬件与推理效率。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/Sparsity_in_LLMs.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=AqpDRGnu82",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -585,9 +585,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "理解世界规律、训练评估世界模型及跨语言视觉控制扩展。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/World_Models.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=5uXDDU0dOh",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
@@ -600,9 +600,9 @@
       "source_list_url": "https://iclr.cc/virtual/2025/events/workshop",
       "summary_zh": "解释模型行为，并将可解释性用于气候、医疗和材料科学。",
       "snapshot_date": "2026-10-19",
-      "proposal_path": null,
-      "proposal_forum_url": null,
-      "proposal_status": "not_downloaded"
+      "proposal_path": "proposals/ICLR/2025/XAI4Science.pdf",
+      "proposal_forum_url": "https://openreview.net/forum?id=PwoXoEM6e3",
+      "proposal_status": "downloaded"
     },
     {
       "conference": "ICLR",
