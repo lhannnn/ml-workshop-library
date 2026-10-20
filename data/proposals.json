@@ -1,0 +1,81 @@
+{
+  "snapshot_date": "2026-10-19",
+  "count": 5,
+  "proposals": [
+    {
+      "conference": "ICLR",
+      "year": 2025,
+      "title": "Self-Improving Foundation Models Without Human Supervision",
+      "catalog_title": "Self-Improving Foundation Models Without Human Supervision",
+      "path": "proposals/ICLR/2025/01_ICLR2025_Self_Improving_Foundation_Models.pdf",
+      "openreview_id": "rFYeBznwop",
+      "forum_url": "https://openreview.net/forum?id=rFYeBznwop",
+      "source_pdf_url": "https://openreview.net/attachment?id=rFYeBznwop&name=pdf",
+      "downloaded_on": "2026-10-19",
+      "pages": 11,
+      "bytes": 353387,
+      "sha256": "a33cdc5867e423b27d51e02cf3633908f3541758e8be555cd22a91db5bbb2a13",
+      "version_note": "Unchanged attachment downloaded on the stated date. Earliest submission version has not been independently verified."
+    },
+    {
+      "conference": "ICLR",
+      "year": 2025,
+      "title": "Workshop on Reasoning and Planning for Large Language Models",
+      "catalog_title": "Workshop on Reasoning and Planning for Large Language Models",
+      "path": "proposals/ICLR/2025/02_ICLR2025_Reasoning_and_Planning_for_LLMs.pdf",
+      "openreview_id": "u9Qy5iW4ue",
+      "forum_url": "https://openreview.net/forum?id=u9Qy5iW4ue",
+      "source_pdf_url": "https://openreview.net/attachment?id=u9Qy5iW4ue&name=pdf",
+      "downloaded_on": "2026-10-19",
+      "pages": 7,
+      "bytes": 83779,
+      "sha256": "1f30f406196ef99dbee96b84a3cab751d7dd19a5358393bb114e6c360b47a577",
+      "version_note": "Unchanged attachment downloaded on the stated date. Earliest submission version has not been independently verified."
+    },
+    {
+      "conference": "ICLR",
+      "year": 2025,
+      "title": "Building Trust in Language Models and Applications",
+      "catalog_title": "Building Trust in LLMs and LLM Applications: From Guardrails to Explainability to Regulation",
+      "path": "proposals/ICLR/2025/03_ICLR2025_Building_Trust_in_Language_Models.pdf",
+      "openreview_id": "IiTBRBNAwL",
+      "forum_url": "https://openreview.net/forum?id=IiTBRBNAwL",
+      "source_pdf_url": "https://openreview.net/attachment?id=IiTBRBNAwL&name=pdf",
+      "downloaded_on": "2026-10-19",
+      "pages": 7,
+      "bytes": 127133,
+      "sha256": "9c2bf7a301cba985115a5af603e3ef80f6431f59cee7dae9361fcc26462c7198",
+      "version_note": "Unchanged attachment downloaded on the stated date. Earliest submission version has not been independently verified."
+    },
+    {
+      "conference": "ICLR",
+      "year": 2025,
+      "title": "VerifAI: AI Verification in the Wild",
+      "catalog_title": "VerifAI: AI Verification in the Wild",
+      "path": "proposals/ICLR/2025/04_ICLR2025_VerifAI.pdf",
+      "openreview_id": "p7rWugEmQo",
+      "forum_url": "https://openreview.net/forum?id=p7rWugEmQo",
+      "source_pdf_url": "https://openreview.net/attachment?id=p7rWugEmQo&name=pdf",
+      "downloaded_on": "2026-10-19",
+      "pages": 10,
+      "bytes": 126885,
+      "sha256": "8401eef30b2d0cd38c58204e115ba813fd8aa5593696474435ebd5954692a645",
+      "version_note": "Unchanged attachment downloaded on the stated date. Earliest submission version has not been independently verified."
+    },
+    {
+      "conference": "ICLR",
+      "year": 2025,
+      "title": "Towards Agentic AI for Science: Hypothesis Generation, Comprehension, Quantification, and Validation",
+      "catalog_title": "Towards Agentic AI for Science: Hypothesis Generation, Comprehension, Quantification, and Validation",
+      "path": "proposals/ICLR/2025/05_ICLR2025_Agentic_AI_for_Science.pdf",
+      "openreview_id": "EDr8rXrtPt",
+      "forum_url": "https://openreview.net/forum?id=EDr8rXrtPt",
+      "source_pdf_url": "https://openreview.net/attachment?id=EDr8rXrtPt&name=pdf",
+      "downloaded_on": "2026-10-19",
+      "pages": 15,
+      "bytes": 596798,
+      "sha256": "b0a82eceecd5ec51c8620c908d41d07eb1c41ce83b6b34c28df251ccb0991302",
+      "version_note": "Unchanged attachment downloaded on the stated date. Earliest submission version has not been independently verified."
+    }
+  ]
+}

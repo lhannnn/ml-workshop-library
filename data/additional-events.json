@@ -1,0 +1,536 @@
+{
+  "snapshot_date": "2026-10-19",
+  "count": 34,
+  "coverage_note": "Supplementary collection; not an exhaustive event directory.",
+  "events": [
+    {
+      "conference": "ICML",
+      "year": 2025,
+      "title": "LatinX in AI Research Workshop at ICML 2025",
+      "event_type": "Community workshop or symposium",
+      "status": "past_programme",
+      "event_url": "https://www.latinxinai.org/icml-2025",
+      "website_url": "https://www.latinxinai.org/icml-2025",
+      "source_list_url": "https://media.icml.cc/Conferences/ICML2025/ICML2025_Fact_Sheet.pdf",
+      "evidence_urls": [
+        "https://www.latinxinai.org/icml-2025",
+        "https://media.icml.cc/Conferences/ICML2025/ICML2025_Fact_Sheet.pdf"
+      ],
+      "summary_zh": "面向 LatinX 研究者的广泛机器学习研究展示、口头报告、海报与导师辅导。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "ICML",
+      "year": 2025,
+      "title": "New In ML at ICML 2025",
+      "event_type": "Community workshop or symposium",
+      "status": "past_programme",
+      "event_url": "https://newinml.github.io/NewInML2025ICML/",
+      "website_url": "https://newinml.github.io/NewInML2025ICML/",
+      "source_list_url": "https://media.icml.cc/Conferences/ICML2025/ICML2025_Fact_Sheet.pdf",
+      "evidence_urls": [
+        "https://newinml.github.io/NewInML2025ICML/",
+        "https://media.icml.cc/Conferences/ICML2025/ICML2025_Fact_Sheet.pdf"
+      ],
+      "summary_zh": "为尚未在顶级机器学习会议发表论文的研究者提供建设性评审、指导和展示机会。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "ICML",
+      "year": 2025,
+      "title": "The 4th Muslims in ML Workshop",
+      "event_type": "Community workshop or symposium",
+      "status": "past_programme",
+      "event_url": "https://www.musiml.org/events/2025-ICML/index.html",
+      "website_url": "https://www.musiml.org/events/2025-ICML/index.html",
+      "source_list_url": "https://media.icml.cc/Conferences/ICML2025/ICML2025_Fact_Sheet.pdf",
+      "evidence_urls": [
+        "https://www.musiml.org/events/2025-ICML/index.html",
+        "https://media.icml.cc/Conferences/ICML2025/ICML2025_Fact_Sheet.pdf"
+      ],
+      "summary_zh": "穆斯林机器学习研究者的研究交流、导师辅导和网络建设，涉及公平、包容、伦理及社区应用。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "ICML",
+      "year": 2025,
+      "title": "WiML Symposium @ ICML 2025",
+      "event_type": "Community workshop or symposium",
+      "status": "past_programme",
+      "event_url": "https://www.wiml.org/events/women-in-machine-learning-symposium%2C-icml-2025",
+      "website_url": "https://www.wiml.org/events/women-in-machine-learning-symposium%2C-icml-2025",
+      "source_list_url": "https://media.icml.cc/Conferences/ICML2025/ICML2025_Fact_Sheet.pdf",
+      "evidence_urls": [
+        "https://www.wiml.org/events/women-in-machine-learning-symposium%2C-icml-2025",
+        "https://media.icml.cc/Conferences/ICML2025/ICML2025_Fact_Sheet.pdf"
+      ],
+      "summary_zh": "面向机器学习女性研究者的研究展示、导师辅导、交流、讨论和社区建设。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "ICML",
+      "year": 2026,
+      "title": "GlobalSouthML @ ICML 2026",
+      "event_type": "Community workshop or symposium",
+      "status": "past_programme",
+      "event_url": "https://sites.google.com/view/globalsouthml-icml-26/",
+      "website_url": "https://sites.google.com/view/globalsouthml-icml-26/",
+      "source_list_url": "https://blog.icml.cc/2026/04/06/announcing-the-icml-2026-workshops-and-affinity-workshops/",
+      "evidence_urls": [
+        "https://sites.google.com/view/globalsouthml-icml-26/",
+        "https://blog.icml.cc/2026/04/06/announcing-the-icml-2026-workshops-and-affinity-workshops/"
+      ],
+      "summary_zh": "面向全球南方研究社区的研究展示、教育、导师辅导、交流与资源受限机器学习。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "ICML",
+      "year": 2026,
+      "title": "LatinX in AI Workshop",
+      "event_type": "Community workshop or symposium",
+      "status": "past_programme",
+      "event_url": "https://www.latinxinai.org/icml-2026",
+      "website_url": "https://www.latinxinai.org/icml-2026",
+      "source_list_url": "https://blog.icml.cc/2026/04/06/announcing-the-icml-2026-workshops-and-affinity-workshops/",
+      "evidence_urls": [
+        "https://www.latinxinai.org/icml-2026",
+        "https://blog.icml.cc/2026/04/06/announcing-the-icml-2026-workshops-and-affinity-workshops/"
+      ],
+      "summary_zh": "面向 LatinX 研究者的广泛机器学习展示、导师辅导、职业讨论和社区建设。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "ICML",
+      "year": 2026,
+      "title": "The 6th Muslims in ML (MusIML) Workshop",
+      "event_type": "Community workshop or symposium",
+      "status": "past_programme",
+      "event_url": "https://www.musiml.org/events/2026-ICML/index.html",
+      "website_url": "https://www.musiml.org/events/2026-ICML/index.html",
+      "source_list_url": "https://blog.icml.cc/2026/04/06/announcing-the-icml-2026-workshops-and-affinity-workshops/",
+      "evidence_urls": [
+        "https://www.musiml.org/events/2026-ICML/index.html",
+        "https://blog.icml.cc/2026/04/06/announcing-the-icml-2026-workshops-and-affinity-workshops/"
+      ],
+      "summary_zh": "穆斯林研究社区的广泛机器学习研究、伦理、偏差、文化议题及导师辅导。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "ICML",
+      "year": 2026,
+      "title": "WiML Symposium @ ICML 2026",
+      "event_type": "Community workshop or symposium",
+      "status": "past_programme",
+      "event_url": "https://www.wiml.org/events/wiml-symposium-@-icml-2026",
+      "website_url": "https://www.wiml.org/events/wiml-symposium-@-icml-2026",
+      "source_list_url": "https://blog.icml.cc/2026/04/06/announcing-the-icml-2026-workshops-and-affinity-workshops/",
+      "evidence_urls": [
+        "https://www.wiml.org/events/wiml-symposium-@-icml-2026",
+        "https://blog.icml.cc/2026/04/06/announcing-the-icml-2026-workshops-and-affinity-workshops/"
+      ],
+      "summary_zh": "面向机器学习女性研究者的演讲、海报、导师辅导、小组讨论和交流。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "Affinity Joint Poster Session",
+      "event_type": "Joint community poster session",
+      "status": "past_programme",
+      "event_url": null,
+      "website_url": null,
+      "source_list_url": "https://neurips.cc/virtual/2025/loc/san-diego/affinity_events",
+      "evidence_urls": [
+        "https://neurips.cc/virtual/2025/loc/san-diego/affinity_events"
+      ],
+      "summary_zh": "亲和社群联合海报展示。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "AI Assistants in the Wild: Agents, Adaptation, and Memory-Augmented Deployment",
+      "event_type": "Expo workshop",
+      "status": "past_programme",
+      "event_url": "https://neurips.cc/virtual/2025/128671",
+      "website_url": null,
+      "source_list_url": "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+      "evidence_urls": [
+        "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+        "https://neurips.cc/virtual/2025/128671"
+      ],
+      "summary_zh": "端侧AI助手的持续记忆、适应、有依据生成和不确定性下的安全。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "CausalFairness: An Open-Source Python Library for Causal Fairness Analysis",
+      "event_type": "Expo workshop",
+      "status": "past_programme",
+      "event_url": "https://neurips.cc/virtual/2025/128677",
+      "website_url": null,
+      "source_list_url": "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+      "evidence_urls": [
+        "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+        "https://neurips.cc/virtual/2025/128677"
+      ],
+      "summary_zh": "利用软件库开展因果公平指标计算和偏差分析。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "Checkmate: Fine-tune your own small language model for real-time chess reasoning and gameplay on AWS Trainium",
+      "event_type": "Expo workshop",
+      "status": "past_programme",
+      "event_url": "https://neurips.cc/virtual/2025/128680",
+      "website_url": null,
+      "source_list_url": "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+      "evidence_urls": [
+        "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+        "https://neurips.cc/virtual/2025/128680"
+      ],
+      "summary_zh": "在AWS Trainium上微调和部署国际象棋语言模型的实践。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "Creative and Protective AI for Music and Entertainment",
+      "event_type": "Expo workshop",
+      "status": "past_programme",
+      "event_url": "https://neurips.cc/virtual/2025/128679",
+      "website_url": null,
+      "source_list_url": "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+      "evidence_urls": [
+        "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+        "https://neurips.cc/virtual/2025/128679"
+      ],
+      "summary_zh": "音乐与娱乐生成，以及数据归因、创作者保护和来源追踪。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "Exploring Trust and Reliability in LLM Evaluation",
+      "event_type": "Expo workshop",
+      "status": "past_programme",
+      "event_url": "https://neurips.cc/virtual/2025/128673",
+      "website_url": null,
+      "source_list_url": "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+      "evidence_urls": [
+        "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+        "https://neurips.cc/virtual/2025/128673"
+      ],
+      "summary_zh": "可靠LLM评测，包括基准污染、推理模型比较和数据验证。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "Indigenous in AI/ML",
+      "event_type": "Community workshop programme",
+      "status": "past_programme",
+      "event_url": null,
+      "website_url": "https://www.indigigenius.org/",
+      "source_list_url": "https://blog.neurips.cc/2025/10/08/announcing-the-neurips-2025-affinity-events/",
+      "evidence_urls": [
+        "https://blog.neurips.cc/2025/10/08/announcing-the-neurips-2025-affinity-events/"
+      ],
+      "summary_zh": "原住民AI研究、知识、社区支持和社会影响。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "Introduction to Generative Computing",
+      "event_type": "Expo workshop",
+      "status": "past_programme",
+      "event_url": "https://neurips.cc/virtual/2025/128678",
+      "website_url": null,
+      "source_list_url": "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+      "evidence_urls": [
+        "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+        "https://neurips.cc/virtual/2025/128678"
+      ],
+      "summary_zh": "Mellea模块化生成式计算、组合契约和可预测的模型应用行为。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "Joint Affinity Event: Queer in AI, LatinX in AI, Women in ML",
+      "event_type": "Joint community event",
+      "status": "past_programme",
+      "event_url": null,
+      "website_url": null,
+      "source_list_url": "https://blog.neurips.cc/2025/10/08/announcing-the-neurips-2025-affinity-events/",
+      "evidence_urls": [
+        "https://blog.neurips.cc/2025/10/08/announcing-the-neurips-2025-affinity-events/"
+      ],
+      "summary_zh": "三个亲和社群共同举办的包容性社区活动。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "Large-Scale Real-World Physical AI Systems",
+      "event_type": "Expo workshop",
+      "status": "past_programme",
+      "event_url": "https://neurips.cc/virtual/2025/128672",
+      "website_url": null,
+      "source_list_url": "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+      "evidence_urls": [
+        "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+        "https://neurips.cc/virtual/2025/128672"
+      ],
+      "summary_zh": "工业物理AI系统、VLA模型、数据反馈循环与安全规模化部署。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "LatinX in AI",
+      "event_type": "Community workshop programme",
+      "status": "past_programme",
+      "event_url": null,
+      "website_url": "https://www.latinxinai.org/neurips-2025",
+      "source_list_url": "https://blog.neurips.cc/2025/10/08/announcing-the-neurips-2025-affinity-events/",
+      "evidence_urls": [
+        "https://blog.neurips.cc/2025/10/08/announcing-the-neurips-2025-affinity-events/"
+      ],
+      "summary_zh": "拉丁裔研究者的科研展示、指导和机器学习合作。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "Multi-Agent Systems in Industry: From Research to Real-World Impact",
+      "event_type": "Expo workshop",
+      "status": "past_programme",
+      "event_url": "https://neurips.cc/virtual/2025/128675",
+      "website_url": null,
+      "source_list_url": "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+      "evidence_urls": [
+        "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+        "https://neurips.cc/virtual/2025/128675"
+      ],
+      "summary_zh": "工业多代理系统中的人类协作、规模化、安全和可靠性。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "Multimodal Superintelligence Workshop",
+      "event_type": "Expo workshop",
+      "status": "past_programme",
+      "event_url": "https://neurips.cc/virtual/2025/128681",
+      "website_url": null,
+      "source_list_url": "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+      "evidence_urls": [
+        "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+        "https://neurips.cc/virtual/2025/128681"
+      ],
+      "summary_zh": "跨模态推理、对齐、融合与协同学习。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "Muslims in ML",
+      "event_type": "Community workshop programme",
+      "status": "past_programme",
+      "event_url": null,
+      "website_url": "https://www.musiml.org/events/2025-NeurIPS",
+      "source_list_url": "https://blog.neurips.cc/2025/10/08/announcing-the-neurips-2025-affinity-events/",
+      "evidence_urls": [
+        "https://blog.neurips.cc/2025/10/08/announcing-the-neurips-2025-affinity-events/"
+      ],
+      "summary_zh": "穆斯林研究者、公平、文化背景、负责任AI和社区指导。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "New in ML",
+      "event_type": "Community workshop programme",
+      "status": "past_programme",
+      "event_url": null,
+      "website_url": "https://newinml.github.io/",
+      "source_list_url": "https://blog.neurips.cc/2025/10/08/announcing-the-neurips-2025-affinity-events/",
+      "evidence_urls": [
+        "https://blog.neurips.cc/2025/10/08/announcing-the-neurips-2025-affinity-events/"
+      ],
+      "summary_zh": "面向初入机器学习研究者的研究能力、指导和交流。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "On Device/Edge AI",
+      "event_type": "Expo workshop",
+      "status": "past_programme",
+      "event_url": "https://neurips.cc/virtual/2025/128674",
+      "website_url": null,
+      "source_list_url": "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+      "evidence_urls": [
+        "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+        "https://neurips.cc/virtual/2025/128674"
+      ],
+      "summary_zh": "硬件、内存、能耗、隐私和可靠性约束下的端侧模型部署。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "Queer in AI",
+      "event_type": "Community workshop programme",
+      "status": "past_programme",
+      "event_url": null,
+      "website_url": "https://www.queerinai.com/neurips-2025",
+      "source_list_url": "https://blog.neurips.cc/2025/10/08/announcing-the-neurips-2025-affinity-events/",
+      "evidence_urls": [
+        "https://blog.neurips.cc/2025/10/08/announcing-the-neurips-2025-affinity-events/"
+      ],
+      "summary_zh": "AI对LGBTQIA*群体的影响、歧视问题、公平实践和科研联系。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "Using the Virtual Cell Platform to Accelerate Machine Learning in Biology",
+      "event_type": "Expo workshop",
+      "status": "past_programme",
+      "event_url": "https://neurips.cc/virtual/2025/128676",
+      "website_url": null,
+      "source_list_url": "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+      "evidence_urls": [
+        "https://neurips.cc/virtual/2025/loc/san-diego/events/expo-2025",
+        "https://neurips.cc/virtual/2025/128676"
+      ],
+      "summary_zh": "利用虚拟细胞平台开展可复现生物建模和评测。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2025,
+      "title": "Women in Machine Learning",
+      "event_type": "Community workshop programme",
+      "status": "past_programme",
+      "event_url": null,
+      "website_url": "https://www.wiml.org/",
+      "source_list_url": "https://blog.neurips.cc/2025/10/08/announcing-the-neurips-2025-affinity-events/",
+      "evidence_urls": [
+        "https://blog.neurips.cc/2025/10/08/announcing-the-neurips-2025-affinity-events/"
+      ],
+      "summary_zh": "女性与非二元性别研究者的科研展示、技术讨论和指导。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2026,
+      "title": "Africa in AI",
+      "event_type": "Community workshop programme",
+      "status": "scheduled",
+      "event_url": null,
+      "website_url": "https://africainai.mailab.io/",
+      "source_list_url": "https://blog.neurips.cc/2026/09/25/announcing-the-neurips-2026-affinity-events/",
+      "evidence_urls": [
+        "https://blog.neurips.cc/2026/09/25/announcing-the-neurips-2026-affinity-events/"
+      ],
+      "summary_zh": "服务非洲发展的AI，涉及基础设施、治理和可信区域应用。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2026,
+      "title": "GlobalSouthAI",
+      "event_type": "Community workshop programme",
+      "status": "scheduled",
+      "event_url": null,
+      "website_url": "https://sites.google.com/view/globalsouthai-neurips26/home",
+      "source_list_url": "https://blog.neurips.cc/2026/09/25/announcing-the-neurips-2026-affinity-events/",
+      "evidence_urls": [
+        "https://blog.neurips.cc/2026/09/25/announcing-the-neurips-2026-affinity-events/"
+      ],
+      "summary_zh": "资源受限和包容性机器学习，包括高效部署、多语言和数据治理。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2026,
+      "title": "LatinX in AI",
+      "event_type": "Community workshop programme",
+      "status": "scheduled",
+      "event_url": null,
+      "website_url": "https://www.latinxinai.org/neurips-2026",
+      "source_list_url": "https://blog.neurips.cc/2026/09/25/announcing-the-neurips-2026-affinity-events/",
+      "evidence_urls": [
+        "https://blog.neurips.cc/2026/09/25/announcing-the-neurips-2026-affinity-events/"
+      ],
+      "summary_zh": "拉丁裔研究者的科研展示、指导和包容性技术交流。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2026,
+      "title": "Muslims in ML",
+      "event_type": "Community workshop programme",
+      "status": "scheduled",
+      "event_url": null,
+      "website_url": "https://www.musiml.org/events/2026-NeurIPS/index.html",
+      "source_list_url": "https://blog.neurips.cc/2026/09/25/announcing-the-neurips-2026-affinity-events/",
+      "evidence_urls": [
+        "https://blog.neurips.cc/2026/09/25/announcing-the-neurips-2026-affinity-events/"
+      ],
+      "summary_zh": "主权AI、文化背景、穆斯林科研群体、指导和社会影响。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2026,
+      "title": "New in ML",
+      "event_type": "Community workshop programme",
+      "status": "scheduled",
+      "event_url": null,
+      "website_url": "https://newinml.github.io/NewInML2026NeurIPS/",
+      "source_list_url": "https://blog.neurips.cc/2026/09/25/announcing-the-neurips-2026-affinity-events/",
+      "evidence_urls": [
+        "https://blog.neurips.cc/2026/09/25/announcing-the-neurips-2026-affinity-events/"
+      ],
+      "summary_zh": "面向新研究者的研究发展，以及LLM和生成式AI实践指导。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2026,
+      "title": "Queer in AI",
+      "event_type": "Community workshop programme",
+      "status": "scheduled",
+      "event_url": null,
+      "website_url": "https://www.queerinai.com/neurips-2026",
+      "source_list_url": "https://blog.neurips.cc/2026/09/25/announcing-the-neurips-2026-affinity-events/",
+      "evidence_urls": [
+        "https://blog.neurips.cc/2026/09/25/announcing-the-neurips-2026-affinity-events/"
+      ],
+      "summary_zh": "酷儿社群、AI社会影响、歧视问题和公平AI实践。",
+      "snapshot_date": "2026-10-19"
+    },
+    {
+      "conference": "NeurIPS",
+      "year": 2026,
+      "title": "Women in Machine Learning",
+      "event_type": "Community workshop programme",
+      "status": "scheduled",
+      "event_url": null,
+      "website_url": null,
+      "source_list_url": "https://blog.neurips.cc/2026/09/25/announcing-the-neurips-2026-affinity-events/",
+      "evidence_urls": [
+        "https://blog.neurips.cc/2026/09/25/announcing-the-neurips-2026-affinity-events/"
+      ],
+      "summary_zh": "女性与非二元性别研究者的科研展示、指导和技术讨论。",
+      "snapshot_date": "2026-10-19"
+    }
+  ]
+}
